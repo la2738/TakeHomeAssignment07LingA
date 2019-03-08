@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment07-LingA</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="next_button">NEXT</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="question_cinderella">Cinderella was the first-ever Disney princess</string>
+    <string name="question_pocahontas">Pocahontas is based on a real person</string>
+    <string name="question_frankenweenie">In Frankenweenie, owner of Sparky is called Vincent</string>
+    <string name="question_kala">A gorilla called Kala looks after a young boy at the beginning of the film Tarzan</string>
+    <string name="question_woody">Full name of Woody is Sheriff Woody Buddy </string>
+    <string name="question_frozen">In Frozen, Olaf is obsessed with the idea of sunbathing</string>
+    <string name="question_mickey">Mickey Mouse was originally called Michael Mouse</string>
+    <string name="question_flubber">Dr Robin Williams invented flubber in the film of the same name</string>
+    <string name="question_nemo">The massive Australian shark in Finding Nemo is called Brett</string>
+    <string name="question_mulan">Mulan has a sequel</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="judgement_toast">Cheating is wrong!</string>
+</resources>
